@@ -11,11 +11,11 @@ Distributed Operation Layer : 
 
 本次实验环境在linux下进行，建议使用虚拟机安装Ubuntu
 
-[VMWARE教程]([http://](http://jingyan.baidu.com/article/0320e2c1ef9f6c1b87507bf6.html)[jingyan.baidu.com/article/0320e2c1ef9f6c1b87507bf6.html](http://jingyan.baidu.com/article/0320e2c1ef9f6c1b87507bf6.html))
+[VMWARE教程](http://jingyan.baidu.com/article/0320e2c1ef9f6c1b87507bf6.html)
 
-[VIRTUALBOX教程]([http://](http://jingyan.baidu.com/article/cdddd41c5eea3153ca00e160.html)[jingyan.baidu.com/article/cdddd41c5eea3153ca00e160.html)
+[VIRTUALBOX教程](http://jingyan.baidu.com/article/cdddd41c5eea3153ca00e160.html)
 
-[Ubuntu下载]([http://](http://www.ubuntu.com/download/desktop)[www.ubuntu.com/download/desktop](http://www.ubuntu.com/download/desktop))
+[Ubuntu下载](http://www.ubuntu.com/download/desktop)
 
 ### 1.安装一些必要的环境
 
