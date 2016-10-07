@@ -5,17 +5,17 @@
 Distributed Operation Layer : 
 ​	The distributed operation layer (DOL) is a software development framework to program parallel applications. The DOL allows to specify applications based on the Kahn process network model of computation and features a simulation engine based on SystemC. Moreover, the DOL provides an XML-based specification format to describe the implementation of a parallel application on a multi-processor systems, including binding and mapping.
 
-![dol](/home/baodi/mygit/lab1/dol_structural.png)
+![dol](/lab1/dol_structural.png)
 
 ## 二、How to install
 
 本次实验环境在linux下进行，建议使用虚拟机安装Ubuntu
 
-[VMWARE教程]([http://](http://jingyan.baidu.com/article/0320e2c1ef9f6c1b87507bf6.html)
+[VMWARE教程]([http://](http://jingyan.baidu.com/article/0320e2c1ef9f6c1b87507bf6.html)[jingyan.baidu.com/article/0320e2c1ef9f6c1b87507bf6.html](http://jingyan.baidu.com/article/0320e2c1ef9f6c1b87507bf6.html))
 
-[VIRTUALBOX教程]([http://](http://jingyan.baidu.com/article/cdddd41c5eea3153ca00e160.html)
+[VIRTUALBOX教程]([http://](http://jingyan.baidu.com/article/cdddd41c5eea3153ca00e160.html)[jingyan.baidu.com/article/cdddd41c5eea3153ca00e160.html)
 
-[Ubuntu下载]([http://](http://www.ubuntu.com/download/desktop)
+[Ubuntu下载]([http://](http://www.ubuntu.com/download/desktop)[www.ubuntu.com/download/desktop](http://www.ubuntu.com/download/desktop))
 
 ### 1.安装一些必要的环境
 
@@ -51,7 +51,7 @@ $  ../configure CXX=g++--disable-async-updates    //运行configure
 ```
 
 运行后得到以下结果
-![run outcome](/home/baodi/mygit/lab1/dol4.png)
+![run outcome](/lab1/dol4.png)
 
 
 ```
@@ -61,12 +61,12 @@ $  sudo make install            //编译
 ```
 $ cd ..        $ ls
 ```
-![content](/home/baodi/mygit/lab1/dol1.png)
+![content](/lab1/dol1.png)
 ```
 记录当前的工作路径
 $  pwd                          //输出当前所在路径，需记录当前的工作路径
 ```
-![path](/home/baodi/mygit/lab1/dol2.png)
+![path](/lab1/dol2.png)
 
 
 
@@ -115,7 +115,7 @@ $	ant -f runexample.xml -Dnumber=1
 
 成功结果如图
 
-![runexample](/home/baodi/mygit/lab1/dol3.png)
+![runexample](/lab1/dol3.png)
 
 ## 三、实验心得
 
