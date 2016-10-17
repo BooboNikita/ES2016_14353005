@@ -2,15 +2,19 @@
 
 ## 一、dot截图
 ![example1](/lab2/example1.png)
-example1
+
+            example1
+
 ![example2](/lab2/example2.png)
-example2
+
+            example2
 
 ## 二、修改代码
 
 ### 1.example1
 
 ​	例子里包括生产者、平方模块、消费者三个模块，而题目要求将结果变为立方，所以根据模块名称，自然要修改的是平方模块。
+
 ![example1](/lab2/example1pic.png)
 
 ```
@@ -49,6 +53,7 @@ int square_fire(DOLProcess *p) {
 ### 2.example2
 
 ​	例2同样包含生产者、平方模块和消费者，不同的事中间连接了三个平方模块，产生的结果就变成了八次方。题目要求减为2个平方模块。而模块的控制是在xml文件里。
+
 ![example2](/lab2/example2pic.png)
 ```
 <variable value="3" name="N"/>
