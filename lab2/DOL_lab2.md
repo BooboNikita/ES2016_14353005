@@ -3,11 +3,11 @@
 ## 一、dot截图
 ![example1](/lab2/example1.png)
 
-            example1
+  example1
 
 ![example2](/lab2/example2.png)
 
-            example2
+  example2
 
 ## 二、修改代码
 
